@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kangaroo
+comment0.text=\r\n\ My\ two\ special\ features\ are\:\ Instructions,\ Death,\ and\ Success.\r\n\ Meaning\ when\ you\ die,\ there\ is\ a\ seperate\ screen,\ and\ when\ you\ win\ there\ is\ annother.\r\n\ \r\n\ @author\ Quinn\r\n\ @version\ April\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Kangaroo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ eatBalloonIfAble()
+comment2.text=\r\n\ Checks\ for\ a\ balloon,\ if\ there\ is\ one\ it\ will\ be\ eaten.\r\n
+comment3.params=moveSpeed\ turnSpeed
+comment3.target=void\ moveAccordingToUserInput(int,\ int)
+comment3.text=\r\n\ Moves\ according\ to\ user\ input.\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Aligator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Aligator\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act.\ Called\ when\ 'Act'\ or\ 'Run'\ button\ is\ pressed.\r\n
+comment2.params=
+comment2.target=void\ eatKangarooIfAble()
+comment2.text=\r\n\ Checks\ for\ a\ kangaroo,\ if\ there\ is\ one\ it\ will\ be\ eaten.\r\n
+comment3.params=
+comment3.target=void\ turnIfAtEdge()
+comment3.text=\r\n\ Turns\ if\ at\ edge.\r\n
+comment4.params=
+comment4.target=void\ turnOnChance()
+comment4.text=\r\n\ Turns\ at\ random.\r\n
+numComments=5

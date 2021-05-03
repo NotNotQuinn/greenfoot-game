@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Balloon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Balloon\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Worm\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=range
+comment2.target=Kangaroo\ getClosestKangaroo(int)
+comment2.text=\r\n\ Gets\ the\ closes\ kangaroo\r\n
+comment3.params=range\ speed
+comment3.target=void\ moveAwayFromKangarooInRange(int,\ int)
+comment3.text=\r\n\ Moves\ away\ from\ the\ closest\ kangaroo\ in\ a\ certain\ range.\r\n\ \r\n\ (Not\ used,\ because\ I\ think\ it\ makes\ it\ too\ hard.)\r\n
+numComments=4

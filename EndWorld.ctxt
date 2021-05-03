@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EndWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EndWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=EndWorld()
+comment2.text=\r\n\ Alias\ for\ `EndWorld(0,\ false)`;\r\n
+comment3.params=deathCount\ success
+comment3.target=EndWorld(int,\ boolean)
+comment3.text=\r\n\ Creates\ a\ new\ EndWorld,\ with\ deathcount\ and\ success\ that\r\n\ are\ passed\ to\ EndScreen.\r\n
+numComments=4
